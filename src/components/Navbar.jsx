@@ -22,11 +22,7 @@ const Navbar = () => {
       icons:faList
       
     },
-    {
-      name: "Settings",
-      path: "/settings",
-      icons:faCog
-    },
+    
   ]
 
   return (
